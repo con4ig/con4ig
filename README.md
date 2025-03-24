@@ -1,54 +1,14 @@
-- 👋 Hi, I’m @con4ig
-- 👀 I’m interested in Front-End Dev
-- 🌱 I’m currently learning React
-- 📫 How to reach me: s.szymon11@interia.pl
+<h1 align="center">Hi 👋, I'm Szymon</h1>
+<h3 align="center">A passionate frontend developer from Poland</h3>
 
-<!---
-con4ig/con4ig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **React**
 
-My visual studio code config:
+- 📫 How to reach me **s.szymon11@interia.pl**
 
-{
-  "workbench.startupEditor": "none",
-  "code-runner.runInTerminal": true,
-  "workbench.list.smoothScrolling": true,
-  "editor.smoothScrolling": true,
-  "terminal.integrated.smoothScrolling": true,
-  "editor.cursorBlinking": "expand",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "editor.fontFamily": "'Operator Mono Lig'",
-  "editor.cursorWidth": 3,
-  "editor.stickyScroll.scrollWithEditor": false,
-  "workbench.tree.enableStickyScroll": false,
-  "editor.hover.sticky": false,
-  "editor.stickyScroll.enabled": false,
-  "editor.fontLigatures": true,
-  "explorer.confirmDelete": false,
-  "git.openRepositoryInParentFolders": "never",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "explorer.confirmDragAndDrop": false,
-  "security.workspace.trust.untrustedFiles": "open",
-  "liveServer.settings.donotShowInfoMsg": true,
-  "editor.fontSize": 17,
-  "redhat.telemetry.enabled": false,
-  "editor.lineHeight": 30,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "indentRainbow.errorColor": "",
-  "python.createEnvironment.trigger": "off",
-  "terminal.integrated.env.windows": {},
-  "workbench.iconTheme": "material-icon-theme",
-  "files.exclude": {
-    "**/.git": false
-  },
-  "terminal.integrated.fontFamily": "monospace",
-  "cSpell.language": "en, pl",
-  "cSpell.languageSettings": [],
-  "cSpell.enabledFileTypes": {
-    "markdown": false
-  },
-  "workbench.colorTheme": "ReUI (Italic)"
-}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/con4ig000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="con4ig000" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
