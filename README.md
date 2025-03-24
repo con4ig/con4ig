@@ -69,9 +69,9 @@
 
 ###
 
-<h1 align="center">My VScode Config</h1>
+<h2 align="center">My VScode Config</h2>
 
-<h3>{
+<p>{
   "workbench.startupEditor": "none",
   "code-runner.runInTerminal": true,
   "workbench.list.smoothScrolling": true,
@@ -111,4 +111,4 @@
     "markdown": false
   },
   "workbench.colorTheme": "ReUI (Italic)"
-}</h3>
+}</p>
