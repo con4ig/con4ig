@@ -99,7 +99,6 @@
     "indentRainbow.errorColor": "",
     "python.createEnvironment.trigger": "off",
     "terminal.integrated.env.windows": {},
-    "workbench.iconTheme": "moxer-icons",
     "files.exclude": {
       "**/.git": false
     },
@@ -112,6 +111,41 @@
     "gitlens.ai.model": "anthropic:claude-3-5-sonnet-latest",
     "pomodoro.workTime": 20,
     "git.confirmSync": false,
-    "workbench.colorTheme": "Dainty – Purple Haze",
-    "editor.fontSize": 16
+    "workbench.colorTheme": "Dainty – City Lights",
+    "editor.fontSize": 16,
+    "todo-tree.general.tags": [
+      "BUG",
+      "HACK",
+      "FIXME",
+      "TODO",
+      "XXX",
+      "[ ]",
+      "[x]",
+      "fix"
+    ],
+    "window.titleBarStyle": "custom",
+    "workbench.colorCustomizations": {
+      "[Vira*]": {}
+    },
+    "php.validate.executablePath": "",
+
+
+  "tailwindCSS.experimental.classRegex": [
+    ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+    ["cx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+  ],
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "classList",
+    "ngClass"
+  ],
+  "editor.renderWhitespace": "boundary",
+  "workbench.iconTheme": "keen-neutral-icon-theme"
+
+
 }</p>
